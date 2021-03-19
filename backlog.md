@@ -8,6 +8,5 @@
 - ret 2 csu
 - file permissions and chmod
 - Intro to fuzzing
-- Makefile intro (Cullinan)
-- Continuous Integration Intro (Cullinan)
+- Continuous Integration Intro 
 - Angr
